@@ -1,0 +1,14 @@
+.onlineBlock {
+    height: 20vh;
+    background-color: bisque;
+}
+.onlineContainer {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title {
+    background-color: white;
+    text-align: center;
+}
